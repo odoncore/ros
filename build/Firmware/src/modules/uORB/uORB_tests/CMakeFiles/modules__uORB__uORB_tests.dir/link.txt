@@ -1,0 +1,2 @@
+/usr/bin/ar cq /home/wonsik/catkin_ws/devel/lib/libmodules__uORB__uORB_tests.a  CMakeFiles/modules__uORB__uORB_tests.dir/uORB_tests_main.cpp.o CMakeFiles/modules__uORB__uORB_tests.dir/uORBTest_UnitTest.cpp.o
+/usr/bin/ranlib /home/wonsik/catkin_ws/devel/lib/libmodules__uORB__uORB_tests.a

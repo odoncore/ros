@@ -1,0 +1,2 @@
+/usr/bin/ar cq /home/wonsik/catkin_ws/devel/lib/libexamples__mc_pos_control_multiplatform.a  CMakeFiles/examples__mc_pos_control_multiplatform.dir/mc_pos_control_main.cpp.o CMakeFiles/examples__mc_pos_control_multiplatform.dir/mc_pos_control_start_nuttx.cpp.o CMakeFiles/examples__mc_pos_control_multiplatform.dir/mc_pos_control.cpp.o
+/usr/bin/ranlib /home/wonsik/catkin_ws/devel/lib/libexamples__mc_pos_control_multiplatform.a

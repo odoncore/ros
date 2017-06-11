@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: rosapi
+Version: 0.7.17
+Summary: Provides service calls for getting ros meta-information, like list of
+    topics, services, params, etc.
+Home-page: http://ros.org/wiki/rosapi
+Author: Russell Toris <rctoris@wpi.edu>, Jihoon Lee <jihoonlee.in@gmail.com>
+Author-email: jonathan.c.mace@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

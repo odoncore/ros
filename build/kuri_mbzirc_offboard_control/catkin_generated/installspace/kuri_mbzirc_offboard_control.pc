@@ -1,0 +1,8 @@
+prefix=/home/wonsik/catkin_ws/install
+
+Name: kuri_mbzirc_offboard_control
+Description: Description of kuri_mbzirc_offboard_control
+Version: 0.0.1
+Cflags: -I/home/wonsik/catkin_ws/install/include
+Libs: -L/home/wonsik/catkin_ws/install/lib 
+Requires: 

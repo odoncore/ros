@@ -1,0 +1,2 @@
+/usr/bin/ar cq /home/wonsik/catkin_ws/devel/lib/liblib__terrain_estimation.a  CMakeFiles/lib__terrain_estimation.dir/terrain_estimator.cpp.o
+/usr/bin/ranlib /home/wonsik/catkin_ws/devel/lib/liblib__terrain_estimation.a

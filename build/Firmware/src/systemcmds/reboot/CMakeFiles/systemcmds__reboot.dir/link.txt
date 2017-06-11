@@ -1,0 +1,2 @@
+/usr/bin/ar cq /home/wonsik/catkin_ws/devel/lib/libsystemcmds__reboot.a  CMakeFiles/systemcmds__reboot.dir/reboot.c.o
+/usr/bin/ranlib /home/wonsik/catkin_ws/devel/lib/libsystemcmds__reboot.a

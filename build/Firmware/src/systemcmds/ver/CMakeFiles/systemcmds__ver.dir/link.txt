@@ -1,0 +1,2 @@
+/usr/bin/ar cq /home/wonsik/catkin_ws/devel/lib/libsystemcmds__ver.a  CMakeFiles/systemcmds__ver.dir/ver.c.o
+/usr/bin/ranlib /home/wonsik/catkin_ws/devel/lib/libsystemcmds__ver.a

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wonsik/catkin_ws/src/Firmware/src/examples/fixedwing_control/params.c
+params.h
+/home/wonsik/catkin_ws/src/Firmware/src/examples/fixedwing_control/params.h
+
+/home/wonsik/catkin_ws/src/Firmware/src/examples/fixedwing_control/params.h
+systemlib/param/param.h
+-
+
+/home/wonsik/catkin_ws/src/Firmware/src/modules/systemlib/param/param.h
+stdint.h
+-
+stdbool.h
+-
+sys/types.h
+-
+

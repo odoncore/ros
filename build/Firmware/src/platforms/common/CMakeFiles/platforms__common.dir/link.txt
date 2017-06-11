@@ -1,0 +1,2 @@
+/usr/bin/ar cq /home/wonsik/catkin_ws/devel/lib/libplatforms__common.a  CMakeFiles/platforms__common.dir/px4_getopt.c.o
+/usr/bin/ranlib /home/wonsik/catkin_ws/devel/lib/libplatforms__common.a

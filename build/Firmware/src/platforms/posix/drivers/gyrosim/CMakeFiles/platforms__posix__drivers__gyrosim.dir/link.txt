@@ -1,0 +1,2 @@
+/usr/bin/ar cq /home/wonsik/catkin_ws/devel/lib/libplatforms__posix__drivers__gyrosim.a  CMakeFiles/platforms__posix__drivers__gyrosim.dir/gyrosim.cpp.o
+/usr/bin/ranlib /home/wonsik/catkin_ws/devel/lib/libplatforms__posix__drivers__gyrosim.a

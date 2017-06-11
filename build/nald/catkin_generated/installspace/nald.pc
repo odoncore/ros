@@ -1,0 +1,8 @@
+prefix=/home/wonsik/catkin_ws/install
+
+Name: nald
+Description: Description of nald
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/wonsik/catkin_ws/install/lib 
+Requires: 

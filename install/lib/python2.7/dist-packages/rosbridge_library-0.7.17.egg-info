@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: rosbridge_library
+Version: 0.7.17
+Summary: The core rosbridge package, repsonsible for interpreting JSON andperforming
+    the appropriate ROS action, like subscribe, publish, call service, and
+    interact with params.
+Home-page: http://ros.org/wiki/rosbridge_library
+Author: Russell Toris <rctoris@wpi.edu>, Jihoon Lee <jihoonlee.in@gmail.com>
+Author-email: jonathan.c.mace@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

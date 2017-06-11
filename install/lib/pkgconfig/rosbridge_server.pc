@@ -1,0 +1,8 @@
+prefix=/home/wonsik/catkin_ws/install
+
+Name: rosbridge_server
+Description: Description of rosbridge_server
+Version: 0.7.17
+Cflags: 
+Libs: -L/home/wonsik/catkin_ws/install/lib 
+Requires: 

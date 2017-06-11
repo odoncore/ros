@@ -1,0 +1,8 @@
+prefix=/home/wonsik/catkin_ws/devel
+
+Name: mansoo_drone
+Description: Description of mansoo_drone
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/wonsik/catkin_ws/devel/lib 
+Requires: 
