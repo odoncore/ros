@@ -1,2 +1,0 @@
-/usr/bin/ar cq /home/wonsik/catkin_ws/devel/lib/liblib__rc.a  CMakeFiles/lib__rc.dir/st24.c.o CMakeFiles/lib__rc.dir/sumd.c.o CMakeFiles/lib__rc.dir/sbus.c.o CMakeFiles/lib__rc.dir/dsm.c.o
-/usr/bin/ranlib /home/wonsik/catkin_ws/devel/lib/liblib__rc.a

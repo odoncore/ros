@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/wonsik/catkin_ws/src
+CMAKE_SOURCE_DIR = /home/kimbowon/catkin_ws/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/wonsik/catkin_ws/build
+CMAKE_BINARY_DIR = /home/kimbowon/catkin_ws/build
 
 # Utility rule file for ros_drone_genpy.
 
@@ -53,10 +53,10 @@ ros_drone/CMakeFiles/ros_drone_genpy.dir/build: ros_drone_genpy
 .PHONY : ros_drone/CMakeFiles/ros_drone_genpy.dir/build
 
 ros_drone/CMakeFiles/ros_drone_genpy.dir/clean:
-	cd /home/wonsik/catkin_ws/build/ros_drone && $(CMAKE_COMMAND) -P CMakeFiles/ros_drone_genpy.dir/cmake_clean.cmake
+	cd /home/kimbowon/catkin_ws/build/ros_drone && $(CMAKE_COMMAND) -P CMakeFiles/ros_drone_genpy.dir/cmake_clean.cmake
 .PHONY : ros_drone/CMakeFiles/ros_drone_genpy.dir/clean
 
 ros_drone/CMakeFiles/ros_drone_genpy.dir/depend:
-	cd /home/wonsik/catkin_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/wonsik/catkin_ws/src /home/wonsik/catkin_ws/src/ros_drone /home/wonsik/catkin_ws/build /home/wonsik/catkin_ws/build/ros_drone /home/wonsik/catkin_ws/build/ros_drone/CMakeFiles/ros_drone_genpy.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/kimbowon/catkin_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kimbowon/catkin_ws/src /home/kimbowon/catkin_ws/src/ros_drone /home/kimbowon/catkin_ws/build /home/kimbowon/catkin_ws/build/ros_drone /home/kimbowon/catkin_ws/build/ros_drone/CMakeFiles/ros_drone_genpy.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : ros_drone/CMakeFiles/ros_drone_genpy.dir/depend
 

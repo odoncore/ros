@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/wonsik/catkin_ws/src/mansoo_drone/src/controller_node.cpp
+/home/kimbowon/catkin_ws/src/mansoo_drone/src/controller_node.cpp
 iostream
 -
 string
@@ -18,9 +18,9 @@ thread
 signal.h
 -
 ros/ros.h
-/home/wonsik/catkin_ws/src/mansoo_drone/src/ros/ros.h
+/home/kimbowon/catkin_ws/src/mansoo_drone/src/ros/ros.h
 std_msgs/String.h
-/home/wonsik/catkin_ws/src/mansoo_drone/src/std_msgs/String.h
+/home/kimbowon/catkin_ws/src/mansoo_drone/src/std_msgs/String.h
 
 /opt/ros/indigo/include/XmlRpcDecl.h
 ros/macros.h

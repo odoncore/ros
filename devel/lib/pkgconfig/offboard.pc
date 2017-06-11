@@ -1,0 +1,8 @@
+prefix=/home/kimbowon/catkin_ws/devel
+
+Name: offboard
+Description: Description of offboard
+Version: 0.0.2
+Cflags: -I/home/kimbowon/catkin_ws/devel/include
+Libs: -L/home/kimbowon/catkin_ws/devel/lib 
+Requires: 

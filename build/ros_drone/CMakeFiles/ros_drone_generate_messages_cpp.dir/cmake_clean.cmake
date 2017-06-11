@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ros_drone_generate_messages_cpp"
-  "/home/wonsik/catkin_ws/devel/include/ros_drone/gps.h"
-  "/home/wonsik/catkin_ws/devel/include/ros_drone/gps_service.h"
+  "/home/kimbowon/catkin_ws/devel/include/ros_drone/gps.h"
+  "/home/kimbowon/catkin_ws/devel/include/ros_drone/gps_service.h"
 )
 
 # Per-language clean rules from dependency scanning.

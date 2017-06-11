@@ -1,2 +1,0 @@
-/usr/bin/ar cq /home/wonsik/catkin_ws/devel/lib/liblib__tailsitter_recovery.a  CMakeFiles/lib__tailsitter_recovery.dir/tailsitter_recovery.cpp.o
-/usr/bin/ranlib /home/wonsik/catkin_ws/devel/lib/liblib__tailsitter_recovery.a

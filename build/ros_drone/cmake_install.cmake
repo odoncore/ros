@@ -1,8 +1,8 @@
-# Install script for directory: /home/wonsik/catkin_ws/src/ros_drone
+# Install script for directory: /home/kimbowon/catkin_ws/src/ros_drone
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/wonsik/catkin_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/kimbowon/catkin_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -33,49 +33,49 @@ if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ros_drone/msg" TYPE FILE FILES "/home/wonsik/catkin_ws/src/ros_drone/msg/gps.msg")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ros_drone/msg" TYPE FILE FILES "/home/kimbowon/catkin_ws/src/ros_drone/msg/gps.msg")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ros_drone/srv" TYPE FILE FILES "/home/wonsik/catkin_ws/src/ros_drone/srv/gps_service.srv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ros_drone/srv" TYPE FILE FILES "/home/kimbowon/catkin_ws/src/ros_drone/srv/gps_service.srv")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ros_drone/cmake" TYPE FILE FILES "/home/wonsik/catkin_ws/build/ros_drone/catkin_generated/installspace/ros_drone-msg-paths.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ros_drone/cmake" TYPE FILE FILES "/home/kimbowon/catkin_ws/build/ros_drone/catkin_generated/installspace/ros_drone-msg-paths.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/home/wonsik/catkin_ws/devel/include/ros_drone")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/home/kimbowon/catkin_ws/devel/include/ros_drone")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/common-lisp/ros" TYPE DIRECTORY FILES "/home/wonsik/catkin_ws/devel/share/common-lisp/ros/ros_drone")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/common-lisp/ros" TYPE DIRECTORY FILES "/home/kimbowon/catkin_ws/devel/share/common-lisp/ros/ros_drone")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  execute_process(COMMAND "/usr/bin/python" -m compileall "/home/wonsik/catkin_ws/devel/lib/python2.7/dist-packages/ros_drone")
+  execute_process(COMMAND "/usr/bin/python" -m compileall "/home/kimbowon/catkin_ws/devel/lib/python2.7/dist-packages/ros_drone")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/python2.7/dist-packages" TYPE DIRECTORY FILES "/home/wonsik/catkin_ws/devel/lib/python2.7/dist-packages/ros_drone")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/python2.7/dist-packages" TYPE DIRECTORY FILES "/home/kimbowon/catkin_ws/devel/lib/python2.7/dist-packages/ros_drone")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/wonsik/catkin_ws/build/ros_drone/catkin_generated/installspace/ros_drone.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/kimbowon/catkin_ws/build/ros_drone/catkin_generated/installspace/ros_drone.pc")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ros_drone/cmake" TYPE FILE FILES "/home/wonsik/catkin_ws/build/ros_drone/catkin_generated/installspace/ros_drone-msg-extras.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ros_drone/cmake" TYPE FILE FILES "/home/kimbowon/catkin_ws/build/ros_drone/catkin_generated/installspace/ros_drone-msg-extras.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ros_drone/cmake" TYPE FILE FILES
-    "/home/wonsik/catkin_ws/build/ros_drone/catkin_generated/installspace/ros_droneConfig.cmake"
-    "/home/wonsik/catkin_ws/build/ros_drone/catkin_generated/installspace/ros_droneConfig-version.cmake"
+    "/home/kimbowon/catkin_ws/build/ros_drone/catkin_generated/installspace/ros_droneConfig.cmake"
+    "/home/kimbowon/catkin_ws/build/ros_drone/catkin_generated/installspace/ros_droneConfig-version.cmake"
     )
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ros_drone" TYPE FILE FILES "/home/wonsik/catkin_ws/src/ros_drone/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ros_drone" TYPE FILE FILES "/home/kimbowon/catkin_ws/src/ros_drone/package.xml")
 endif()
 

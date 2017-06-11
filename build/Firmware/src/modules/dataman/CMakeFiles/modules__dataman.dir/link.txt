@@ -1,2 +1,0 @@
-/usr/bin/ar cq /home/wonsik/catkin_ws/devel/lib/libmodules__dataman.a  CMakeFiles/modules__dataman.dir/dataman.c.o
-/usr/bin/ranlib /home/wonsik/catkin_ws/devel/lib/libmodules__dataman.a

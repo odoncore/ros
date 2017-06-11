@@ -1,2 +1,2 @@
-Firmware:mansoo_drone:nald:ros_drone:rosbridge_suite/rosapi:rosbridge_suite/rosbridge_library:rosbridge_suite/rosbridge_server:rosbridge_suite/rosbridge_suite
--DCATKIN_DEVEL_PREFIX=/home/wonsik/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wonsik/catkin_ws/install -G Unix Makefiles
+mansoo_drone:nald:offboard_control:ros_drone
+-DCATKIN_DEVEL_PREFIX=/home/kimbowon/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kimbowon/catkin_ws/install -G Unix Makefiles

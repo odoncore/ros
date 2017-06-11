@@ -1,3 +1,0 @@
-file(REMOVE_RECURSE
-  "/home/wonsik/catkin_ws/devel/lib/libmodules__unit_test.a"
-)

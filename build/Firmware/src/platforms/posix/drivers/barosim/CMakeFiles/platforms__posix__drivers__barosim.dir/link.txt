@@ -1,2 +1,0 @@
-/usr/bin/ar cq /home/wonsik/catkin_ws/devel/lib/libplatforms__posix__drivers__barosim.a  CMakeFiles/platforms__posix__drivers__barosim.dir/baro.cpp.o
-/usr/bin/ranlib /home/wonsik/catkin_ws/devel/lib/libplatforms__posix__drivers__barosim.a

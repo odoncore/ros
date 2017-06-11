@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/nald_offboard_node.dir/src/nald_offboard_node.cpp.o"
-  "/home/wonsik/catkin_ws/devel/lib/nald/nald_offboard_node.pdb"
-  "/home/wonsik/catkin_ws/devel/lib/nald/nald_offboard_node"
+  "/home/kimbowon/catkin_ws/devel/lib/nald/nald_offboard_node.pdb"
+  "/home/kimbowon/catkin_ws/devel/lib/nald/nald_offboard_node"
 )
 
 # Per-language clean rules from dependency scanning.

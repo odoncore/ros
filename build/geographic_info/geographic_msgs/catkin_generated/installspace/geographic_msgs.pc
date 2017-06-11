@@ -1,8 +1,0 @@
-prefix=/home/wonsik/catkin_ws/install
-
-Name: geographic_msgs
-Description: Description of geographic_msgs
-Version: 0.5.2
-Cflags: -I/home/wonsik/catkin_ws/install/include
-Libs: -L/home/wonsik/catkin_ws/install/lib 
-Requires: message_runtime geometry_msgs uuid_msgs std_msgs

@@ -1,8 +1,8 @@
-prefix=/home/wonsik/catkin_ws/install
+prefix=/home/kimbowon/catkin_ws/install
 
 Name: ros_drone
 Description: Description of ros_drone
 Version: 0.0.0
-Cflags: -I/home/wonsik/catkin_ws/install/include
-Libs: -L/home/wonsik/catkin_ws/install/lib 
+Cflags: -I/home/kimbowon/catkin_ws/install/include
+Libs: -L/home/kimbowon/catkin_ws/install/lib 
 Requires: geometry_msgs rospy roscpp std_msgs message_runtime sensor_msgs nav_msgs

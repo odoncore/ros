@@ -6,22 +6,12 @@
 
 #IncludeRegexTransform: 
 
-/home/wonsik/catkin_ws/src/mansoo_drone/src/offboard_node.cpp
+/home/kimbowon/catkin_ws/src/mansoo_drone/src/offboard_node.cpp
 iostream
 -
 ros/ros.h
 -
 std_msgs/String.h
--
-geometry_msgs/PoseStamped.h
--
-mavros_msgs/CommandBool.h
--
-mavros_msgs/SetMode.h
--
-mavros_msgs/State.h
--
-ros/ros.h
 -
 geometry_msgs/PoseStamped.h
 -

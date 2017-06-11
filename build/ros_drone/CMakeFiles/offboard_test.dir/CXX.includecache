@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/wonsik/catkin_ws/src/ros_drone/src/offboard_test.cpp
+/home/kimbowon/catkin_ws/src/ros_drone/src/offboard_test.cpp
 iostream
 -
 ros/ros.h

@@ -1,8 +1,8 @@
-# Install script for directory: /home/wonsik/catkin_ws/src/mansoo_drone
+# Install script for directory: /home/kimbowon/catkin_ws/src/mansoo_drone
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/wonsik/catkin_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/kimbowon/catkin_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -33,17 +33,17 @@ if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/wonsik/catkin_ws/build/mansoo_drone/catkin_generated/installspace/mansoo_drone.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/kimbowon/catkin_ws/build/mansoo_drone/catkin_generated/installspace/mansoo_drone.pc")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mansoo_drone/cmake" TYPE FILE FILES
-    "/home/wonsik/catkin_ws/build/mansoo_drone/catkin_generated/installspace/mansoo_droneConfig.cmake"
-    "/home/wonsik/catkin_ws/build/mansoo_drone/catkin_generated/installspace/mansoo_droneConfig-version.cmake"
+    "/home/kimbowon/catkin_ws/build/mansoo_drone/catkin_generated/installspace/mansoo_droneConfig.cmake"
+    "/home/kimbowon/catkin_ws/build/mansoo_drone/catkin_generated/installspace/mansoo_droneConfig-version.cmake"
     )
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mansoo_drone" TYPE FILE FILES "/home/wonsik/catkin_ws/src/mansoo_drone/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/mansoo_drone" TYPE FILE FILES "/home/kimbowon/catkin_ws/src/mansoo_drone/package.xml")
 endif()
 

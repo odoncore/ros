@@ -1,2 +1,0 @@
-/usr/bin/ar cq /home/wonsik/catkin_ws/devel/lib/libexamples__attitude_estimator_ekf.a  CMakeFiles/examples__attitude_estimator_ekf.dir/attitude_estimator_ekf_main.cpp.o CMakeFiles/examples__attitude_estimator_ekf.dir/codegen/AttitudeEKF.c.o
-/usr/bin/ranlib /home/wonsik/catkin_ws/devel/lib/libexamples__attitude_estimator_ekf.a

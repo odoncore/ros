@@ -1,2 +1,0 @@
-/usr/bin/ar cq /home/wonsik/catkin_ws/devel/lib/libmodules__sensors.a  CMakeFiles/modules__sensors.dir/sensors.cpp.o CMakeFiles/modules__sensors.dir/sensors_init.cpp.o
-/usr/bin/ranlib /home/wonsik/catkin_ws/devel/lib/libmodules__sensors.a

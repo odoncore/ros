@@ -1,2 +1,0 @@
-/usr/bin/ar cq /home/wonsik/catkin_ws/devel/lib/libsystemcmds__sd_bench.a  CMakeFiles/systemcmds__sd_bench.dir/sd_bench.c.o
-/usr/bin/ranlib /home/wonsik/catkin_ws/devel/lib/libsystemcmds__sd_bench.a

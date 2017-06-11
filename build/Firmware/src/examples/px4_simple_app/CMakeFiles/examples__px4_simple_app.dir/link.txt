@@ -1,2 +1,0 @@
-/usr/bin/ar cq /home/wonsik/catkin_ws/devel/lib/libexamples__px4_simple_app.a  CMakeFiles/examples__px4_simple_app.dir/px4_simple_app.c.o
-/usr/bin/ranlib /home/wonsik/catkin_ws/devel/lib/libexamples__px4_simple_app.a

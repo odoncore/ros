@@ -6,8 +6,10 @@
 
 #IncludeRegexTransform: 
 
-/home/wonsik/catkin_ws/src/ros_drone/src/offboard_node2.cpp
+/home/kimbowon/catkin_ws/src/ros_drone/src/offboard_node2.cpp
 iostream
+-
+cstdio
 -
 ros/ros.h
 -
@@ -17,11 +19,15 @@ std_msgs/Float64.h
 -
 geometry_msgs/PoseStamped.h
 -
+mavros_msgs/GlobalPositionTarget.h
+-
 mavros_msgs/CommandBool.h
 -
 mavros_msgs/SetMode.h
 -
 mavros_msgs/State.h
+-
+sensor_msgs/NavSatFix.h
 -
 iostream
 -
@@ -34,6 +40,8 @@ std_msgs/String.h
 std_msgs/Float64.h
 -
 geometry_msgs/PoseStamped.h
+-
+mavros_msgs/GlobalPositionTarget.h
 -
 mavros_msgs/CommandBool.h
 -
@@ -132,6 +140,22 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
+/opt/ros/indigo/include/geometry_msgs/Vector3.h
+string
+-
+vector
+-
+map
+-
+ros/types.h
+-
+ros/serialization.h
+-
+ros/builtin_message_traits.h
+-
+ros/message_operations.h
+-
+
 /opt/ros/indigo/include/mavros_msgs/CommandBool.h
 ros/service_traits.h
 -
@@ -170,6 +194,28 @@ ros/serialization.h
 ros/builtin_message_traits.h
 -
 ros/message_operations.h
+-
+
+/opt/ros/indigo/include/mavros_msgs/GlobalPositionTarget.h
+string
+-
+vector
+-
+map
+-
+ros/types.h
+-
+ros/serialization.h
+-
+ros/builtin_message_traits.h
+-
+ros/message_operations.h
+-
+std_msgs/Header.h
+-
+geometry_msgs/Vector3.h
+-
+geometry_msgs/Vector3.h
 -
 
 /opt/ros/indigo/include/mavros_msgs/SetMode.h
