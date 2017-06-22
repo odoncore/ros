@@ -291,7 +291,7 @@ void cbState(const mavros_msgs::State::ConstPtr& msg)
 void cbMoveX(const std_msgs::Float64::ConstPtr& msg)
 {
   std::printf("msg->X: %.20lf\n", msg->data);
-  g_pose.pose.position.x = (msg->data - original_latitude)/ 0.00001 * 0.12179047095976932582726898256213;
+  g_pose.pose.position.x = (msg->data - original_latitude)/ 0.000001 * 0.12179047095976932582726898256213;
   std::printf("callbackX: %.20lf\n", g_pose.pose.position.x);
 local_pos_pub.publish(g_pose);
   // std::cout << "callbackX: " << g_pose.pose.position.x << std::endl;
@@ -300,7 +300,7 @@ local_pos_pub.publish(g_pose);
 void cbMoveY(const std_msgs::Float64::ConstPtr& msg)
 {
   std::printf("msg->Y: %.20lf\n", msg->data);
-  g_pose.pose.position.y = (msg->data - original_longitude)/ 0.000001 * 0.00728553580298947812081345114627;
+  g_pose.pose.position.y = (msg->data - original_longitude)/ 0.0000001 * 0.00728553580298947812081345114627;
   std::printf("callbackY: %.20lf\n", g_pose.pose.position.y);
   local_pos_pub.publish(g_pose);
 }
